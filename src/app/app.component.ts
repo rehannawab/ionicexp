@@ -28,6 +28,7 @@ export class AppComponent {
     private statusBar: StatusBar
   ) {
     this.initializeApp();
+    console.log('Some changes here');
   }
 
   initializeApp() {
