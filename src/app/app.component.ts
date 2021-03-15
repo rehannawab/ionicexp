@@ -28,7 +28,7 @@ export class AppComponent {
     private statusBar: StatusBar
   ) {
     this.initializeApp();
-    console.log('Some changes here for feature 1');
+    console.log('Some changes here for feature 1 xyz');
   }
 
   initializeApp() {
