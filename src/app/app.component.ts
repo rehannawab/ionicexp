@@ -30,6 +30,7 @@ export class AppComponent {
     this.initializeApp();
     console.log('Some changes here for feature 1 xyz');
       console.log('Testing merge');
+      console.log('Testing rebase');
   }
 
   initializeApp() {
